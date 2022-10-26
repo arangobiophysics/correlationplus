@@ -10,6 +10,8 @@
 
 # correlationplus
 
+*Tweaked for Amphotericin sponge Dynamic Cross Correlation analysis.
+
 A Python package to calculate, visualize and analyze correlation maps of proteins.
 
 correlationplus contains four main scripts that you can use to calculate, visualize
